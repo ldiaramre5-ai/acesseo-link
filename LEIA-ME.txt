@@ -1,0 +1,22 @@
+SITE - 50.141.569 ZILDA APARECIDA CARNEIRO
+
+Arquivos:
+- index.html: página principal
+- sobre.html: página institucional Sobre
+- politica-privacidade.html: Política de Privacidade
+- termos-uso.html: Termos de Uso
+- styles.css: estilos personalizados
+- assets/: imagens enviadas
+
+Como visualizar:
+1. Extraia o arquivo ZIP.
+2. Abra index.html no navegador.
+3. Para publicar, envie todos os arquivos e a pasta assets para a raiz do seu domínio, preservando a estrutura.
+
+Observações importantes antes de anunciar:
+- Confirme se o e-mail informado está correto: ldiaramre5@gmail.com.
+- Revise com atenção a Política de Privacidade e os Termos de Uso para refletirem exatamente suas práticas reais.
+- Se instalar Google Analytics, Google Ads conversion tracking, Meta Pixel, formulários, cookies não essenciais ou outros serviços de terceiros, atualize a Política de Privacidade e implemente os avisos/consentimentos aplicáveis.
+- O site não contém formulário de envio de dados nem rastreador de publicidade configurado.
+- As imagens foram fornecidas pelo cliente.
+- Bootstrap, Bootstrap Icons e fontes externas carregam por CDN; conexão à internet é necessária para esses recursos.
